@@ -1,0 +1,76 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+	text-align: left;
+}
+
+img {
+	max-width: 300px;
+}
+
+.checkInline{
+	display: inline;
+}
+
+.body-region{
+	width: 900px;
+	border: 2px rgba(255, 255, 255, 0.37) solid;
+	font-weight: "verdana","tahoma", sans-serif;
+	background-color: rgba(109, 109, 109, 0.555);
+	color: rgba(255, 255, 255, 0.76);
+}
+
+div{
+	width:80%;
+	margin: auto;
+	text-align: left;
+	border-top: 20px;
+}
+
+h1{
+	text-decoration: underline;
+}
+
+ul{
+	text-align: left;
+}
+
+.buttonChange{
+	background-color: yellow;
+	border:1px ridge rgba(255, 255, 255, 0.76);
+	text-align: center;
+	padding : 15px 20px;
+	color: rgb(0, 0, 0);
+}
+
+
